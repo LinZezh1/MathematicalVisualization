@@ -1,0 +1,2 @@
+# About MathematicalVisualization
+这个库主要存储一些用Manim制作的数学方面可视化的代码以及视频效果
